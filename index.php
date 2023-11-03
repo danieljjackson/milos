@@ -7,3 +7,4 @@
 
 	// Call the test method in the DatabaseController
 	$databaseController->test();
+	$databaseController->getUserData();
