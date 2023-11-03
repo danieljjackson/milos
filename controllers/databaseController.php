@@ -12,6 +12,6 @@
 
 		// Test function for testing we can call functions from the controller
 		public function test() {
-			echo "This is a test function";
+			echo "<br> This is a test function";
 		}
 	}
